@@ -19,6 +19,6 @@ with playwright and also learn mcp  */
    6. how to run the automated testing with playwright and mcp server and node js
    7. how to run the automated testing with playwright and mcp server and node js and javascript fundamentals
    8. how to run the automated testing with playwright and mcp server and node js and javascript fundamentals and learnings
-   9. how to run the automated testing with playwright and mcp server and node js and javascript fundamentals and learnings and best practices
+   9. how to run the automated testing with playwright and mcp server and node js and javascript fundamentals and learnings and git push -u origin main practices
    10. how to run the automated testing with playwright and mcp server and node js and javascript fundamentals and learnings and best practices and tips
    */ 
