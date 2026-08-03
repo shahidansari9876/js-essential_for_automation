@@ -219,3 +219,5 @@ if(truthy6){
 else{
     console.log(`truthy6 is falsy ${truthy6}`) // here console.log is used to print the value of truthy6 if it is falsy
 }           
+
+    
