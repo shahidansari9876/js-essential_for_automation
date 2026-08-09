@@ -17,3 +17,7 @@ console.log(`Your grade is: ${grade}`); // Output: Your grade is: B
 let asume= "automation testing"
 let result= asume=="automation testing" ? "You are in the right place." : asume=="manual testing" ? "You are in the wrong place." : "You are not in the right place.";
 console.log(` given result for check your course type: ${result}`); // Output: You are in the right place.
+
+
+let number = -5;
+number >= 1 ? console.log("The number is positive.") : number === 0 ? console.log("The number is zero.") : console.log("The number is negative."); // Output: The number is negative.
