@@ -21,3 +21,12 @@ arr.forEach((item, index) => {
 });
 
 console.log(`Total sum of numbers in the array is: ${num}`);
+
+
+let array = ["shahid","ansari",1,2,3,4]
+
+array.forEach((values,index) => {
+    console.log(values)
+    console.log(index)
+})
+
