@@ -18,3 +18,8 @@ if (color === "red")  console.log(">> ready to click on red button");
 else console.log(">> not ready to click on red button");
 
 // here only the condtion will check the color is red or not. if true than execute otherwise it will        
+
+let color1 = "blue";
+if (color1 === "red") console.log(">> ready to click on red button");
+else console.log(">> not ready to click on red button");
+    
